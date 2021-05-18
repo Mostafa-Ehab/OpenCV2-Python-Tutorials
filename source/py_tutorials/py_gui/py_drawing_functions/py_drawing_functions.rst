@@ -52,7 +52,7 @@ To draw a circle, you need its center coordinates and radius. We will draw a cir
 Drawing Ellipse
 --------------------
 
-To draw the ellipse, we need to pass several arguments. One argument is the center location (x,y). Next argument is axes lengths (major axis length, minor axis length). ``angle`` is the angle of rotation of ellipse in anti-clockwise direction. ``startAngle`` and ``endAngle`` denotes the starting and ending of ellipse arc measured in clockwise direction from major axis. i.e. giving values 0 and 360 gives the full ellipse. For more details, check the documentation of **cv2.ellipse()**. Below example draws a half ellipse at the center of the image.
+To draw the ellipse, we need to pass several arguments. One argument is the center location (x,y). Next argument is axes lengths (horizontal axis length **(x-axis)**, vertical axis length **(y-axis)**). ``angle`` is the angle of rotation of ellipse in clockwise direction. ``startAngle`` and ``endAngle`` denotes the starting and ending of ellipse arc measured in clockwise direction from horizontal axis. i.e. giving values 0 and 360 gives the full ellipse. For more details, check the documentation of **cv2.ellipse()** <https://docs.opencv.org/master/d6/d6e/group__imgproc__draw.html#ga28b2267d35786f5f890ca167236cbc69>. Below example draws a half ellipse at the center of the image.
 ::
 
     img = cv2.ellipse(img,(256,256),(100,50),0,0,180,255,-1) 
