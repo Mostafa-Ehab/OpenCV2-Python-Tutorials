@@ -21,7 +21,7 @@ Online
 ---------
 
 * **For official tutorials, please visit : http://docs.opencv.org/trunk/doc/py_tutorials/py_tutorials.html**
-* https://opencv-python-tutroals.readthedocs.org/en/latest/index.html - This is only for checking. May contain lots of errors, please stick to the official tutorials.
+* https://opencv2-python-tutorials.readthedocs.io/en/latest/ - This is only for checking. May contain lots of errors, please stick to the official tutorials.
 
 Offline
 ---------
