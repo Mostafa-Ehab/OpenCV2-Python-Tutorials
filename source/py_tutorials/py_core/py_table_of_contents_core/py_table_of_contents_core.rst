@@ -45,22 +45,7 @@ Core Operations
   .. |core_4| image:: images/speed.jpg
                  :height: 90pt
                  :width:  90pt
-
-*  :ref:`Mathematical_Tools`
-
-  .. tabularcolumns:: m{100pt} m{300pt}
-  .. cssclass:: toctableopencv
-
-  =========== ======================================================
-  |core_5|     Learn some of the mathematical tools provided by OpenCV like PCA, SVD etc.
-
-  =========== ======================================================
-
-  .. |core_5| image:: images/maths_tools.jpg
-                 :height: 90pt
-                 :width:  90pt
-
-               
+       
 .. raw:: latex
 
    \pagebreak
@@ -72,4 +57,3 @@ Core Operations
    ../py_basic_ops/py_basic_ops
    ../py_image_arithmetics/py_image_arithmetics
    ../py_optimization/py_optimization
-   ../py_maths_tools/py_maths_tools
