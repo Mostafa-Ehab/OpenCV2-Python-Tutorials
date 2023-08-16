@@ -1,3 +1,4 @@
+# encoding: utf-8
 # -*- coding: utf-8 -*-
 #
 # OpenCV-Python Tutorials documentation build configuration file, created by
